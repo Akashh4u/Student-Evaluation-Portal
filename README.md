@@ -8,3 +8,10 @@ This project is designed to simplify the process of managing student records eff
 
 ### Dark Mode Appearance
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/ac76b838874aaf95452b03c7147b2831807bd866/Screenshot%202025-11-12%20170312.png)
+
+## How to run this project
+
+#### Step 1 : Go to Vs-Code and run a New Terminal
+#### Step 2 : choose Git-bash in portal
+#### Step 3 : Now Run a command cd backend in that terminal
+#### Step 4 : Now you will be in backend folder after this now run node server.js in that backend terminal
