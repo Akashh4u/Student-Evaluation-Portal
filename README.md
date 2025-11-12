@@ -17,3 +17,5 @@ This project is designed to simplify the process of managing student records eff
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/73a5adb0056ff925ad42f0aa7284ec4f8703cb79/Screenshot%202025-11-12%20171423.png)
 #### Step 3 : Now Run a command cd backend in that terminal after this run node server.js
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/17be7cee2828bdff8d2c2425a7de34a9c9d013e8/Screenshot%202025-11-12%20171342.png)
+
+## Final Result
