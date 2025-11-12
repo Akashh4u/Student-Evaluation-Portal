@@ -14,5 +14,6 @@ This project is designed to simplify the process of managing student records eff
 #### Step 1 : Go to Vs-Code and run a New Terminal
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/914e1dd725c86ffe8a19e76f200b0a71678effd1/Screenshot%202025-11-12%20171407.png)
 #### Step 2 : choose Git-bash in portal
+![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/73a5adb0056ff925ad42f0aa7284ec4f8703cb79/Screenshot%202025-11-12%20171423.png)
 #### Step 3 : Now Run a command cd backend in that terminal
 #### Step 4 : Now you will be in backend folder after this now run node server.js in that backend terminal
