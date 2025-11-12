@@ -4,4 +4,6 @@ This project is designed to simplify the process of managing student records eff
 
 ## Project Overview
 
+Light Mode
+
 
