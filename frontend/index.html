@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student Result Management System</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Student Record Management Portal</h1>
+
+    <div class="form">
+      <input id="id" placeholder="Student ID" />
+      <input id="name" placeholder="Student Name" />
+      <input id="roll" placeholder="Roll No" />
+      <input id="m1" placeholder="Marks 1" type="number" />
+      <input id="m2" placeholder="Marks 2" type="number" />
+      <input id="m3" placeholder="Marks 3" type="number" />
+
+      <!-- ✅ Add this line for validation messages -->
+      <p id="errorMsg" style="color: red; font-weight: bold; margin-top: 10px;"></p>
+
+      <!-- Colored buttons -->
+      <button id="addBtn" class="add-btn">Add Student</button>
+      <button id="exportBtn" class="csv-btn">Export CSV</button>
+      <button id="darkModeBtn" class="toggle-btn">Dark Mode</button>
+    </div>
+
+    <table id="studentTable">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Roll</th>
+          <th>M1</th>
+          <th>M2</th>
+          <th>M3</th>
+          <th>Total</th>
+          <th>Percentage</th>
+          <th>Grade</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <script src="script.js"></script>
+  </body>
+</html>

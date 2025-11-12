@@ -1,0 +1,146 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #222;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  margin: 5px;
+  padding: 8px;
+}
+
+/* Table Styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+th {
+  background-color: #eee;
+}
+
+/* Button Styling*/
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 12px;
+  font-weight: bold;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  opacity: 0.9;
+  transform: scale(1.03);
+}
+
+
+/* Add Student Button Styling */
+.add-btn {
+  background-color: #5cb85c; /* green */
+  color: white;
+}
+
+.add-btn:hover {
+  background-color: #4cae4c;
+}
+
+/* CSV Button Styling */
+.csv-btn {
+  background-color: #0275d8; /* blue */
+  color: white;
+}
+
+.csv-btn:hover {
+  background-color: #025aa5;
+}
+
+/* Dark Mode Button Styling*/
+.toggle-btn {
+  background-color: #6f42c1; /* purple */
+  color: white;
+}
+
+.toggle-btn:hover {
+  background-color: #5a32a3;
+}
+
+/* Edit Button */
+.edit-btn {
+  background-color: #f0ad4e; /* orange */
+  color: white;
+}
+
+.edit-btn:hover {
+  background-color: #ec971f;
+}
+
+/* Delete Button Styling */
+.delete-btn {
+  background-color: #d9534f; /* red */
+  color: white;
+}
+
+.delete-btn:hover {
+  background-color: #c9302c;
+}
+
+/* DARK MODE SUPPORT */
+.dark {
+  background-color: #222;
+  color: white;
+}
+
+/* Heading Colour which will be visible in dark mode */
+.dark h1 {
+  color: white;
+}
+
+.dark table,
+.dark th,
+.dark td {
+  border: 1px solid #555;
+}
+
+.dark th {
+  background-color: #333;
+}
+
+/* Dark mode button adjustments */
+.dark .add-btn {
+  background-color: #4cae4c;
+}
+
+.dark .csv-btn {
+  background-color: #025aa5;
+}
+
+.dark .toggle-btn {
+  background-color: #5a32a3;
+}
+
+.dark .edit-btn {
+  background-color: #d48c2f;
+}
+
+.dark .delete-btn {
+  background-color: #b52b27;
+}
