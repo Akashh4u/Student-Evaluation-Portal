@@ -23,9 +23,10 @@ This project is designed to simplify the process of managing student records eff
 ### Step 5: Start the Server
 ##### Run this command ---> node server.js
 ###### You should see a message like: “Server is running on http://localhost:3000”
+![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/17be7cee2828bdff8d2c2425a7de34a9c9d013e8/Screenshot%202025-11-12%20171342.png)
 ### Step 6: Open the FrontEnd
 ###### Now open the index.HTML file now right click on the you should see multiple options choose "open with live server"
-![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/17be7cee2828bdff8d2c2425a7de34a9c9d013e8/Screenshot%202025-11-12%20171342.png)
+![image alt]()
 
 ## Final Result
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/af28e071058b2d80e373c9165f1bcdefcdae8518/Screenshot%202025-11-12%20181707.png)
