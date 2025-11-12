@@ -20,3 +20,6 @@ This project is designed to simplify the process of managing student records eff
 
 ## Final Result
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/af28e071058b2d80e373c9165f1bcdefcdae8518/Screenshot%202025-11-12%20181707.png)
+
+### You can also export this table as a Excel file By clicking on Export CSV
+![image alt]()
