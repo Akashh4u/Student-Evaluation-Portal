@@ -25,7 +25,7 @@ This project is designed to simplify the process of managing student records eff
 ###### You should see a message like: “Server is running on http://localhost:3000”
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/17be7cee2828bdff8d2c2425a7de34a9c9d013e8/Screenshot%202025-11-12%20171342.png)
 ### Step 6: Open the FrontEnd
-###### Now open the index.HTML file now right click on the you should see multiple options choose "open with live server"
+###### Now open the index.HTML file now right click on the Code you should see multiple options choose "open with live server"
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/8065c913e5fe773171c32f165b441005e0f31d48/Screenshot%202025-11-12%20183830.png)
 
 ## Final Result
