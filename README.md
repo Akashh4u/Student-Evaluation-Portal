@@ -11,11 +11,20 @@ This project is designed to simplify the process of managing student records eff
 
 ## WorkFlow
 
-#### Step 1 : Go to Vs-Code and run a New Terminal
+#### Step 1: Open the Project in VS Code
+#### Step 2: Open a New Terminal
+###### In VS Code, click on Terminal → New Terminal or press Ctrl + ` .
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/914e1dd725c86ffe8a19e76f200b0a71678effd1/Screenshot%202025-11-12%20171407.png)
-#### Step 2 : choose Git-bash in portal
+#### Step 3: Choose Git-bash in portal
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/73a5adb0056ff925ad42f0aa7284ec4f8703cb79/Screenshot%202025-11-12%20171423.png)
-#### Step 3 : Now Run a command cd backend in that terminal after this run node server.js
+#### Step 4: Navigate to Backend Folder
+###### Run this command ---> cd backend
+![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/17be7cee2828bdff8d2c2425a7de34a9c9d013e8/Screenshot%202025-11-12%20171342.png)
+### Step 5: Start the Server
+##### Run this command ---> node server.js
+###### You should see a message like: “Server is running on http://localhost:3000”
+### Step 6: Open the FrontEnd
+###### Now open the index.HTML file now right click on the you should see multiple options choose "open with live server"
 ![image alt](https://github.com/Akashh4u/Student-Evaluation-Portal/blob/17be7cee2828bdff8d2c2425a7de34a9c9d013e8/Screenshot%202025-11-12%20171342.png)
 
 ## Final Result
